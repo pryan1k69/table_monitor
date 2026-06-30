@@ -55,6 +55,9 @@ python main.py --video название_видео.mp4
 2. Красный прямоугольник = стол занят;
 3. Статистика отображается в левом верхнем углу.
 
+## Пример занятости стола
+<img width="1152" height="648" alt="screenshot_20260330_012503" src="https://github.com/user-attachments/assets/28b2698c-9e04-49fa-97f6-ff0ccdeab4b2" />
+
 ## Пример статистики
 
 ```bash
